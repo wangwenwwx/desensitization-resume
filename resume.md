@@ -4,7 +4,7 @@
 
 ## 个人信息
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp; 年 龄：25
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp; 年 龄：26
 * 手 机/微信：XXXXXXXXXX &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;邮 箱：**********@qq.com
 
 ## 教育经历
